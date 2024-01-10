@@ -1,16 +1,18 @@
 # Code Refactor Starter Code
 
-Live Deployment Link: https://mjjust31.github.io/Code.Refactor
+## Live Deployment Link:
 
-Project Description: 
-Used previous code to update to semantic HTML text and combine CSS style attributes to reduce redundancy and make the code more efficient. After the review, the deployed link should reflect the same as it did before with the Horiseon page. 
+[Deployment Link](https://mjjust31.github.io/Code.Refactor)
 
-User Story: 
+## Description
+
+Used previous code to update to semantic HTML text and combine CSS style attributes to reduce redundancy and make the code more efficient. After the review, the deployed link should reflect the same as it did before with the Horiseon page.
+
+User Story:
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-
 
 Acceptance Criteria
 
@@ -26,14 +28,54 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Step 1: Review the HTML file to make more accessible and add semantic HTML. 
+## Table of Contents
 
-Step 2: Review CSS Code to determine duplicates to make code more efficient. 
+- [Installation](#installation)
 
-In the HTML, there were many "divs" that could be changed to make it easier to read and accessible. I sorted the HTML in the following way: header, main, aside, and footer to make it easier to visualize the page without needing to. I also divided the content in sections to visualize the "break" on the page.  I also added a title and alt to the images. 
+- [Usage](#usage)
+
+- [Contributing](#contributing)
+
+- [Tests](#tests)
+
+- [License](#license)
+
+- [Questions](#questions)
+
+## Installation
+
+No installations required.
+
+## Usage
+
+This project only uses HTML and CSS files and is not intended for any specific use except to understans semantic HTML and css file better. In the HTML, there were many "divs" that could be changed to make it easier to read and accessible. I sorted the HTML in the following way: header, main, aside, and footer to make it easier to visualize the page without needing to. I also divided the content in sections to visualize the "break" on the page. I also added a title and alt to the images.
 
 In the CSS code, there were many items that held the same design features that would be condensed for more efficient code. As I review, I attempted to keep items in order when reviewing the html. For example, keeping the header near the top of the CSS and moved classes lower if they appeared lower on the page.
 
-Some of the same similarities were and were consolidated for more efficient code. 
+Some of the same similarities were and were consolidated for more efficient code.
 
-I also noticed that all text (except for the footer) had the font color of #ffffff. Therefore, I applied this universally to the page and added a special CSS code for the footer - which had black font applied. 
+## Contributing
+
+The best way to contribute is to review the code and mark and chnages that can provide cleaner code in bot the HTML and CSS files.
+
+# Tests
+
+No tests
+
+## License
+
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This project is licensed under the MIT License for more information, you can visit here: [MIT License](https://opensource.org/licenses/MIT)
+
+## Questions
+
+For any questions, please contact me at mj.justmann@gmail.com.
+
+## Resources used for the project
+
+1. https://www.w3schools.com/css/css_selectors.asp
+2. https://www.markdownguide.org/cheat-sheet/
+
+
+
