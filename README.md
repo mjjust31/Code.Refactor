@@ -1,5 +1,10 @@
 # Code Refactor Starter Code
 
+## Screenshot
+
+![Deployed Link Screenshot](./assets/images/Screenshot1.png)
+![Deployed Link Screenshot](./assets/images/Screenshot2.png)
+
 ## Live Deployment Link:
 
 [Deployment Link](https://mjjust31.github.io/Code.Refactor)
